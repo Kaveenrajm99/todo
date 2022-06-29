@@ -38,7 +38,7 @@ function Login() {
             <div className="row">
                 <div className="col login">
                     <div className="mt-2">
-                        <h1 className="text-center login-head">Docket App</h1>
+                        <h1 className="text-center login-head">Pocket App</h1>
                     </div>
                     <div className="mt-5 login-border">
                         <form className="m-5" onSubmit={formik.handleSubmit}>

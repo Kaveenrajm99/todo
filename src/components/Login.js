@@ -70,7 +70,7 @@ function Login() {
                         </form>
                     </div>
                     <div className="mt-3 text-white text-center created">
-                        Simple Todo Created by <span className="bg-danger by"> Guhan </span>
+                        Simple Todo Created by <span className="bg-danger by"> Raja </span>
                     </div>
 
                 </div>
